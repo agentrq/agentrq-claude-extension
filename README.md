@@ -13,7 +13,7 @@ To add this marketplace to your Claude Code instance:
 Then install the AgentRQ plugin:
 
 ```bash
-/plugin install agentrq@agentrq-marketplace
+/plugin install agentrq@agentrq
 ```
 
 ## Included Plugins
