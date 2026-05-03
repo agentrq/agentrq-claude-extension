@@ -1,0 +1,11 @@
+{
+  "name": "agentrq",
+  "description": "Human-in-the-loop task manager for agents",
+  "version": "1.0.0",
+  "mcpServers": {
+    "agentrq": {
+      "type": "http",
+      "url": "https://mcp.agentrq.com/mcp"
+    }
+  }
+}

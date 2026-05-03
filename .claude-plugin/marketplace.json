@@ -1,0 +1,14 @@
+{
+  "name": "agentrq-marketplace",
+  "owner": {
+    "name": "AgentRQ",
+    "email": "hi@agentrq.com"
+  },
+  "plugins": [
+    {
+      "name": "agentrq",
+      "source": "./plugins/agentrq",
+      "description": "Human-in-the-loop task manager for agents"
+    }
+  ]
+}
