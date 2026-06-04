@@ -10,10 +10,17 @@ To add this marketplace to your Claude Code instance:
 /plugin marketplace add https://github.com/agentrq/agentrq-claude-extension
 ```
 
-Then install the AgentRQ plugin:
+### Supervisor MCP
+If you don't want to UI to manage the tasks but want to use MCP server directly, then install the AgentRQ plugin:
 
 ```bash
 /plugin install agentrq@agentrq
+```
+
+### Workspace(Agent) MCP
+
+```bash
+/plugin install agentrq@agentrq-workspace
 ```
 
 ## Included Plugins
