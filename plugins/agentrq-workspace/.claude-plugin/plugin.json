@@ -6,7 +6,7 @@
     "workspace_mcp_url": {
       "type": "string",
       "title": "Workspace MCP URL",
-      "description": "Your unique AgentRQ Workspace MCP URL (e.g., https://mcp.agentrq.com/mcp/your-workspace-id?token=...)",
+      "description": "Your unique AgentRQ Workspace MCP URL (e.g., https://<WORKSPACEID>.mcp.agentrq.com/?token=...)",
       "required": true
     }
   },
