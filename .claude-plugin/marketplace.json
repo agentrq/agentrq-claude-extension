@@ -9,6 +9,11 @@
       "name": "agentrq",
       "source": "./plugins/agentrq",
       "description": "Human-in-the-loop task supervisor for agents"
+    },
+    {
+      "name": "agentrq-workspace",
+      "source": "./plugins/agentrq-workspace",
+      "description": "Human-in-the-loop task manager for AI agents"
     }
   ]
 }
