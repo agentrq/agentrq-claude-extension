@@ -7,5 +7,10 @@
       "type": "http",
       "url": "https://mcp.agentrq.com/mcp"
     }
+  },
+  "author": {
+    "name": "Mustafa Turan",
+    "email": "dev@agentrq.com",
+    "url": "https://github.com/mustafaturan"
   }
 }
